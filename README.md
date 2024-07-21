@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv Raj Saxena</h1>
 <h3 align="center">A dedicated Full Stack Developer from India specializing in the MERN stack.</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/2322237300551747/">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/b5/ee/b1/b5eeb12c6fcd34fef00a42cf5d833e44.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrajsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrajsaxena" /> </p>
 
