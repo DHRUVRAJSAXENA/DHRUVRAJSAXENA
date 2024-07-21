@@ -1,7 +1,7 @@
-[![MasterHead](https://in.pinterest.com/pin/2322237300551747/)]
+
 <h1 align="center">Hi 👋, I'm Dhruv Raj Saxena</h1>
 <h3 align="center">A dedicated Full Stack Developer from India specializing in the MERN stack.</h3>
-<img src="https://in.pinterest.com/pin/874120608916051084/" alt="pic" />
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/2322237300551747/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvrajsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvrajsaxena" /> </p>
 
