@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/91/4c/0e/914c0efb29d670b9b1ec182d9f25dbc7.jpg)]
+![MasterHead](https://i.pinimg.com/originals/07/c0/dd/07c0dd461ea6f6096d943b51ddd81f6f.jpg)
 
 <h1 align="center">Hi 👋, I'm Dhruv Raj Saxena</h1>
 <h3 align="center">A dedicated Full Stack Developer from India specializing in the MERN stack.</h3>
